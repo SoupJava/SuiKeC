@@ -1,5 +1,9 @@
 # SuiKe-C语言版本
+
+2022年2月
+
 一款桌面随机点名软件（还有Java版本）
+
 链接如下：https://github.com/SoupJava/SuiKeJava
 
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/36298e09-91b6-4e6d-b0fe-3f962695e3c2" />
